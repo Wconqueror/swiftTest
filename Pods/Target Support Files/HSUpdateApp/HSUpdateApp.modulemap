@@ -1,0 +1,6 @@
+framework module HSUpdateApp {
+  umbrella header "HSUpdateApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
